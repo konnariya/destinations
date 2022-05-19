@@ -1,6 +1,6 @@
 # Tbilisi, Georgia
 
-[🐙 Добавить информацию на github](https://github.com/deskntea/destinations)
+[![Contribute](https://img.shields.io/badge/contribute-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deskntea/destinations/)
 
 * Местная валюта – лари (не склоняется)
 * Очень крутой европейский город
