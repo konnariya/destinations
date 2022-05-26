@@ -1,14 +1,8 @@
 # **YEREVAN, ARMENIA**
 [![Contribute](https://img.shields.io/badge/contribute-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deskntea/destinations/)
 * ##### Местная валюта - армянский драм (АМD)
-* ***
-* ***
 ## 🌏 НАВИГАЦИЯ И ПЕРЕДВИЖЕНИЕ 🚕
-*** 
-***
 ## 🍔 ЕДА 🥙
-***
-***
 ## 💬 ЛОКАЛЬНЫЕ ЧАТЫ 📧
 - ##### [Ереван 🇦🇲 Чат TravelAsk, 1600+](https://t.me/travelask_erevan_chat)
 - ##### [IT в Ереване, 1700+](https://t.me/iterevan)
@@ -26,19 +20,9 @@
 - ##### [Экономические новости Армении](https://t.me/economyofarmenia)
 - ##### [Банки в Армении Чат для обсуждения вопросов, связанных с банками в Армении](https://t.me/+tkxjy-IbDFZhODAy)
 - ##### [Попутчики(Армения)](https://t.me/blablacararm)
-***
-***
 ## 📱 СВЯЗЬ И ИНТЕРНЕТ 💻
 - ##### Google
-***
-***
 ## 🏡 ЖИЛЬЕ 🏢
-***
-***
 ## 📈 БАНКОВСКИЕ СЧЕТА 💰
-***
-***
 ## 🎯 Лайфхаки🍀
-***
-***
 
